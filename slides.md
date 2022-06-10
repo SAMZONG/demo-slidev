@@ -1,3 +1,7 @@
+---
+title: page 1
+---
+
 # page 1
 
 ## Hello World
@@ -6,7 +10,6 @@ this is a hello world string
 
 
 ---
-
 
 # page 2
 
